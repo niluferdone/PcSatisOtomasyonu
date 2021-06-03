@@ -1,0 +1,45 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Admin.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.UrunEkle.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Guncelle.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.User.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe.config
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.exe
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.pdb
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.pdb
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csprojResolveAssemblyReference.cache
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Admin.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Form1.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Guncelle.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Properties.Resources.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.UrunEkle.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.User.resources
+H:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csproj.GenerateResource.Cache
+G:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe.config
+G:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.exe
+G:\3.Sınıf 1.Dönem\Veritabani Yonetim Sistemleri\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.pdb
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe.config
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.exe
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\bin\Debug\PC_Satis_Otomasyonu.pdb
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Admin.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Form1.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Guncelle.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.Properties.Resources.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.UrunEkle.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.User.resources
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.csproj.CopyComplete
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.exe
+C:\Users\Nilüfer\Desktop\otomasyon\VTYS\PC_Satis_Otomasyonu\PC_Satis_Otomasyonu\obj\Debug\PC_Satis_Otomasyonu.pdb
